@@ -2,6 +2,9 @@
 A dynamic web application developed with HTML, CSS, and JavaScript. Test your knowledge, challenge your friends, and expand your horizons through engaging quizzes on various subjects.
 
 
+### We are using internal HTML for CSS styling and JavaScript for Logic building
+
+
 
 <img src="https://github.com/IlyasDarwesh/Educational-Quiz-/assets/100092188/78da0745-5b68-4d33-a251-870e878ef757.jpeg">
 
