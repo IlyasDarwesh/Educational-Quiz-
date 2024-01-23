@@ -1,12 +1,42 @@
 # Educational-Quiz-
 A dynamic web application developed with HTML, CSS, and JavaScript. Test your knowledge, challenge your friends, and expand your horizons through engaging quizzes on various subjects.
+ Now I added some user front-end by adding a new linked page where I design all educational games.  The games will feature a series of multiple-choice questions, Pickup, and Sequence rumbling games which allow the user to test their knowledge on a different or given educational topic. Currently, the Multiple-choice game is linked to our Main page, but we will continue our other games in the future with their features.
+
+## Purpose
+The purpose of this Project is to create a user-friendly, web-based quiz game that is fun and knowledgeable. This game will be accessible to students easily from any place in the world.
+
+### We are using internal HTML for CSS styling and JavaScript for Logic building yet no database integration.
+
+# Usage
+## Game Rules
+
+### First game: Multiple-choice questions
+The game presents multiple-choice questions to the player.
+The player must select the correct answer by clicking on one of the provided options. After each answer, the game provides immediate feedback.
+The player's score is tracked and displayed at the end of the game.
+
+### Second game: Pick-Up
+The game presents correct pick-up questions to the player.
+The player must select the correct answer from the provided options.
+ After each answer, the game provides immediate feedback.
+The player's score is tracked and displayed at the end of the game.
+
+### Third game: Sequence Rumbling
+The game shows different number rumbled sequences to the player.
+The player must rearrange the sequence in an appropriate order.
+ After each answer, the game provides immediate feedback.
+The player's score is tracked and displayed at the end of the game.
+
+## Conclusion
+It is a versatile educational tool that can be easily customized and shared with learners of all ages. It allows for interactive quizzes, immediate feedback, and score tracking. By following this documentation, you can get started with the game, customize it to your educational needs, and even contribute to its improvement.
+
+## Homepage
+![ad](https://github.com/IlyasDarwesh/Educational-Quiz-/assets/100092188/742ea84c-9ae1-49e9-a880-cedc9ea600c7)
 
 
-### We are using internal HTML for CSS styling and JavaScript for Logic building
+## Multiple Choice Game Interface : 1st
 
-
-
-<img src="https://github.com/IlyasDarwesh/Educational-Quiz-/assets/100092188/78da0745-5b68-4d33-a251-870e878ef757.jpeg">
+![ads](https://github.com/IlyasDarwesh/Educational-Quiz-/assets/100092188/130e61ec-5026-4c7c-bca4-037df946a3bc)
 
 <br>
 
